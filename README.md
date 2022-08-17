@@ -11,3 +11,4 @@ Salutations! I'm Juan Santiago and this is my GitHub Profile. I'm a former socia
 ##                      Contact
 <a href="https://juan-santiago-portfolio-99.netlify.app/"> <img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white' /> </a>
 <a href='https://www.linkedin.com/in/juan-a-santiago/' > <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> </a>
+<a href='mailto:JuanASantiago1058@gmail.com' > <img src='	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> </a>
