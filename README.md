@@ -1,2 +1,2 @@
 # jsantia85
-(imgs/juan.jpg)
+# ![Profile Pic](imgs/juan.jpg) 
