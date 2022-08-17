@@ -1,4 +1,3 @@
-# jsantia85
 # ![Profile Pic](imgs/juan.jpg) 
 
 [![Juans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantia85&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
