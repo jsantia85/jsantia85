@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantia85&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  About Me
-Salutations! I'm Juan Santiago and this is my GitHub Profile. I'm a former social scientist and educator turned software engineer—a NJ native with a passion for learning and problem solving, driven by constant self-improvement. Independent and team-oriented, I enjoy working in environments that allow me to use my diverse skill set and foster genuine and authentic relationships with those around me.
+Salutations! I'm Juan Santiago and this is my GitHub Profile. I'm a former social scientist and educator turned software engineer—a NJ native with a passion for learning and problem solving, driven by constant self-improvement. Independent and team-oriented, I enjoy working in environments that allow me to use my diverse skill set and foster genuine and authentic relationships with those around me. Let's connect!
 
 ##  Contact
 <a href="https://juan-santiago-portfolio-99.netlify.app/"> <img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139' /> </a>
