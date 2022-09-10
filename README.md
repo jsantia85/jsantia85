@@ -2,7 +2,7 @@
 
 [![Juans's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantia85&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
-![Juan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jsantia85&theme=moltack)
+![Juan's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jsantia85&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantia85&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
